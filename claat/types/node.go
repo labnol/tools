@@ -540,7 +540,7 @@ var IframeWhitelist = []string{
 	"instagram.com",
 	"soundcloud.com",
 	"twitch.tv",
-	"twitter.com"
+	"twitter.com",
 }
 
 // NewIframeNode creates a new embedded iframe.
