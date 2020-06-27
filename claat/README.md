@@ -10,11 +10,11 @@ For more info run `claat help`.
 
 The easiest way is to download pre-compiled binary.
 The binaries, as well as their checksums are available at the
-[Releases page](https://github.com/googlecodelabs/tools/releases/latest).
+[Releases page](https://github.com/labnol/tools/releases/latest).
 
 Alternatively, if you have [Go installed](https://golang.org/doc/install):
 
-    go get github.com/googlecodelabs/tools/claat
+    go get github.com/labnol/tools/claat
 
 If none of the above works, compile the tool from source following Dev workflow
 instructions below.
@@ -25,7 +25,7 @@ instructions below.
 
 1. Install [Go](https://golang.org/dl/) if you don't have it.
 2. Make sure this directory is placed under
-   `$GOPATH/src/github.com/googlecodelabs/tools`.
+   `$GOPATH/src/github.com/labnol/tools`.
 3. Install package dependencies with `go get ./...` from this directory.
 
 To build the binary, run `make`.

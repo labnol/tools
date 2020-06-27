@@ -26,9 +26,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/googlecodelabs/tools/claat/fetch"
-	"github.com/googlecodelabs/tools/claat/types"
-	"github.com/googlecodelabs/tools/claat/util"
+	"github.com/labnol/tools/claat/fetch"
+	"github.com/labnol/tools/claat/types"
+	"github.com/labnol/tools/claat/util"
 )
 
 // Options type to make the CmdUpdate signature succinct.

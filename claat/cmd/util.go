@@ -16,14 +16,14 @@
 // specified as either Google Doc IDs or local markdown files.
 // The command also allows one to preview generated codelabs from local drive
 // using "claat serve".
-// See more details at https://github.com/googlecodelabs/tools.
+// See more details at https://github.com/labnol/tools.
 package cmd
 
 import (
 
 	// allow parsers to register themselves
-	_ "github.com/googlecodelabs/tools/claat/parser/gdoc"
-	_ "github.com/googlecodelabs/tools/claat/parser/md"
+	_ "github.com/labnol/tools/claat/parser/gdoc"
+	_ "github.com/labnol/tools/claat/parser/md"
 )
 
 const (

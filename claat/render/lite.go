@@ -26,7 +26,7 @@ import (
 	"golang.org/x/net/html"
 	"golang.org/x/net/html/atom"
 
-	"github.com/googlecodelabs/tools/claat/types"
+	"github.com/labnol/tools/claat/types"
 )
 
 // Lite renders nodes as a standard HTML markup, without Custom Elements.
